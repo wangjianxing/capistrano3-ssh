@@ -1,4 +1,4 @@
-# Capistrano3::Ssh
+# Capistrano::Ssh
 
 Ssh to server.
 
