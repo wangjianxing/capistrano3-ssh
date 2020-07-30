@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-1. Add require 'capistrano/ssh' in your Capfile.
+1. Add ```require 'capistrano/ssh'``` in your ```Capfile```.
 2. Run ssh task: ```cap staging ssh```
 
 ## Contributing
